@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farrukhayazqazi
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on MERN stack tech
-- 💞️ I’m looking to collaborate on projects with huge scope and potential.
+- 💞️ I’m looking to collaborate on projects with high scope and potential.
 - 📫 How to reach me: email: farrukh.ayazz3@gmail.com
 
 <!---
