@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=coolvectica+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Farrukh!;I'm+a+Software+Engineer...;I'm+also+a+Product+Designer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=coolvectica+Daughter&color=1f29ad&size=30&lines=Hey!+I'm+Farrukh!;I'm+a+Software+Engineer...;I'm+also+a+Product+Designer;)](https://git.io/typing-svg)
 
 
 
