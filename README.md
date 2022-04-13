@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @farrukhayazqazi
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+- 👋 I’m @farrukhayazqazi
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on MERN stack tech
 - ♥️ I’m looking to collaborate on projects with high scope and potential.
@@ -8,8 +10,10 @@
 farrukhayazqazi/farrukhayazqazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2>Github Statistics 🚀:</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farrukhayazqazi&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhayazqazi)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>You can reach me at :alien:</h2>
 
