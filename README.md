@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farrukhayazqazi&theme=github_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farrukhayazqazi&theme=github-dark-blue)](https://git.io/streak-stats) 
+![github graph](https://activity-graph.herokuapp.com/graph?username=farrukhayazqazi&theme=react-dark)
 
 <h2>You can reach me at :alien:</h2>
 
