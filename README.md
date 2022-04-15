@@ -1,5 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 👋 I’m @farrukhayazqazi
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on MERN stack tech
@@ -13,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 <h2>Github Statistics 🚀:</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farrukhayazqazi&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhayazqazi&theme=github_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farrukhayazqazi&theme=github-dark-blue)](https://git.io/streak-stats) 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=farrukhayazqazi&theme=react-dark)
 
