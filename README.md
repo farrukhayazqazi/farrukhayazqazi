@@ -8,6 +8,8 @@
 - ♥️ I’m looking to collaborate on projects with high scope and potential.
 - 📫 How to reach me: email: farrukh.ayazz3@gmail.com
 
+
+
 <!---
 farrukhayazqazi/farrukhayazqazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -36,4 +38,11 @@ You can click the Preview link to take a look at your changes.
   <a href="https://medium.com/@farrukhayazqazi">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Farrukh Ayaz Qazi's Medium Profile" height="30" width="30">
   </a>
+</p>
+
+
+
+  <br>
+  <p align="center">
+  <img src="https://github.com/farrukhayazqazi/farrukhayazqazi/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
