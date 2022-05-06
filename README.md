@@ -7,6 +7,7 @@
 - 🌱 I’m currently working on MERN stack tech
 - ♥️ I’m looking to collaborate on projects with high scope and potential.
 - 📫 How to reach me: email: farrukh.ayazz3@gmail.com
+- 📁 portfolio: <a href="https://farrukhayazqazi.github.io/"><b>farrukhayazqazi's portfolio</b></a>
 
 
 
