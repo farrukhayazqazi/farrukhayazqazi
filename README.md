@@ -1,4 +1,4 @@
-# Hi there <span style="height:29px; width:29px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" ></span>
+# Hi there <span style="height:29px; width:29px"><img style="height:29px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" ></span>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
